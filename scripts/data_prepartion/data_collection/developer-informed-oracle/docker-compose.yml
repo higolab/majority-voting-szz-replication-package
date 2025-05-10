@@ -1,0 +1,10 @@
+services:
+  ghq:
+    image: ghq:latest
+    container_name: ghq
+    volumes:
+      - type: bind
+        source: ../../../..
+        target: /workspaces/
+    command: /bin/sh -c "bash clone_repository_with_ghq.sh repository_list.txt"
+    working_dir: /workspaces/scripts/data_prepartion/data_collection/developer-informed-oracle
