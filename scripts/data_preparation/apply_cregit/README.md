@@ -21,8 +21,36 @@ docker exec -it cregit /bin/bash
 ## 3. Run scripts
 
 These commands are executed inside a Docker container.
+Create N-token representation
 
-### 3-1. Defects4j
+### 3-1. Developer-informed-oracle
+
+```bash
+cd /workspaces/scripts/data-preparation/apply_cregit/developer-informed-oracle
+bash run_cregit_1token.sh
+```
+
+```bash
+cd /workspaces/scripts/data-preparation/apply_cregit/developer-informed-oracle
+bash run_cregit_2token.sh
+```
+
+```bash
+cd /workspaces/scripts/data-preparation/apply_cregit/developer-informed-oracle
+bash run_cregit_3token.sh
+```
+
+```bash
+cd /workspaces/scripts/data-preparation/apply_cregit/developer-informed-oracle
+bash run_cregit_4token.sh
+```
+
+```bash
+cd /workspaces/scripts/data-preparation/apply_cregit/developer-informed-oracle
+bash run_cregit_5token.sh
+```
+
+### 3-2. Defects4j
 
 ```bash
 cd /workspaces/scripts/data-preparation/apply_cregit/defects4j
@@ -48,3 +76,11 @@ bash run_cregit_4token.sh
 cd /workspaces/scripts/data-preparation/apply_cregit/defects4j
 bash run_cregit_5token.sh
 ```
+
+## 4. Execution JSON Creation Notebook
+
+Open and Execute the notebook:
+
+- [Defects4j](./defects4j/create_json_for_szz.ipynb)
+
+- [Developer-informed-oracle](./developer-informed-oracle/create_json_for_szz.ipynb)

@@ -11,6 +11,8 @@ docker build -t ghq:latest .
 
 ## defects4j
 
+Built to extract data from [Defects4j](https://github.com/rjust/defects4j/tree/v2.1.0).
+
 ```bash
 cd defects4j
 docker build -t defects4j .
