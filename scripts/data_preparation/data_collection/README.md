@@ -29,13 +29,20 @@ docker compose up
 
 ### 2-1.
 
+Clone defects4j and target repositories.
+
 ```bash
 cd scripts/data_preparation/data_collection/defects4j
 docker compose up
 ```
 
-### 2-2.
+(Option if you need)
 
 ```bash
-
+cd scripts/data_preparation/data_collection/defects4j
+bash register_safe_directories.sh
 ```
+
+### 2-2.
+
+You should execute [create_json_for_szz.ipynb](./defects4j/create_json_for_szz.ipynb)
