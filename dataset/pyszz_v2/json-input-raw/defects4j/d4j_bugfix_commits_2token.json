@@ -1,0 +1,1432 @@
+[
+    {
+        "id": 10000,
+        "bug_commit_hash": [
+            "cd2f94f73140662f7cb4060fa40de7d8e8a72f89"
+        ],
+        "fix_commit_hash": "5e6997f3ef46bcd9badc9cf1705a1d379101cf4f",
+        "repo_name": "apache/commons-cli",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10001,
+        "bug_commit_hash": [
+            "2ede780e613e57b1026fb6a8d92badf18ea0b870"
+        ],
+        "fix_commit_hash": "1b7bd25c5d6ca94f34ac3222adbdb3c93f88286c",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10002,
+        "bug_commit_hash": [
+            "e99268e871bca257a07472ed05103910dfc21dcb"
+        ],
+        "fix_commit_hash": "1a611c83c951e8b1ac97a473e0f95fb00df05bb1",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10003,
+        "bug_commit_hash": [
+            "2e1c654aa4c12175e927c99c389fa1d7222bc2d2"
+        ],
+        "fix_commit_hash": "04e871cb4eb6139ce9709f3ac4a08b9eec57bfe1",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10004,
+        "bug_commit_hash": [
+            "63ef604f90c3e46fffb3d383ce116930a68b65e1"
+        ],
+        "fix_commit_hash": "4ab4e07e989341a8aa63909724a2336d66f24c2a",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10005,
+        "bug_commit_hash": [
+            "07084f76252cebb4ecf5b52229b5d4abd773249f"
+        ],
+        "fix_commit_hash": "83838a0cb874eca840fbfdede01a5d059845e177",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10006,
+        "bug_commit_hash": [
+            "79c11c82112f5111569f91da9d7b0f42d3b4052a"
+        ],
+        "fix_commit_hash": "ac0006f681eaf40824bcffa8db5588c52c82ffe5",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10007,
+        "bug_commit_hash": [
+            "4cecb774b1bb7029086bec536c2563c43906210a"
+        ],
+        "fix_commit_hash": "7a2d459c4ca3c966aafda4ca266bb153ecbb50ca",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10008,
+        "bug_commit_hash": [
+            "c0f30054542de7fba039dce09ed0a6f32e3e5451"
+        ],
+        "fix_commit_hash": "f32a594dd84f4afb4e7e3d099b41d902278d8e49",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10009,
+        "bug_commit_hash": [
+            "cf541d631dfc1843f96e2668477567ee07b21e57"
+        ],
+        "fix_commit_hash": "8554d9e91c90b2368a08f98a95893061b486963a",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10010,
+        "bug_commit_hash": [
+            "e7e6ddf5c920f23e3ee7951d05bcb19a66dd6ebf"
+        ],
+        "fix_commit_hash": "6f66e6089c16b6b5cb1a7b69da9145077e997348",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10011,
+        "bug_commit_hash": [
+            "e7e76359f99e2db31d7f5206de31eda39cf55a82"
+        ],
+        "fix_commit_hash": "c5e7443c8eedec7147d89961cfc5f44cf2d09c0a",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10012,
+        "bug_commit_hash": [
+            "5f2fb44acdae1a6a4190a2121e4f2e5e09db6643"
+        ],
+        "fix_commit_hash": "69fda9825944a58c9ae9d2879a2f079be8c02d74",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10013,
+        "bug_commit_hash": [
+            "9d4c2cb108c1f98edaaf9e628874ff3fa82d66bc"
+        ],
+        "fix_commit_hash": "139567d8225bc9c8df7b2510ef4feb1142c09672",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10014,
+        "bug_commit_hash": [
+            "f548dee9186a91013cd64b486abb64cda3abaf3a"
+        ],
+        "fix_commit_hash": "751bb5bb59fd6d44334bd786df23e354d87c2d02",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10015,
+        "bug_commit_hash": [
+            "bcd91722201688b53af962b41d6b85d1f7b545ae"
+        ],
+        "fix_commit_hash": "f5a194f77a161320ae2a8eb670990415aa2c6fea",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10016,
+        "bug_commit_hash": [
+            "31088efd0c017375c13e47e8688021b7ca0ebf85"
+        ],
+        "fix_commit_hash": "aab735126820fad63687683f7daa895ce3c08d5c",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10017,
+        "bug_commit_hash": [
+            "a83e9c42b60058251b683a0657da75cc29e34626"
+        ],
+        "fix_commit_hash": "83dbabec67d2d15e24ceaab434a8bfcadb4f225c",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10018,
+        "bug_commit_hash": [
+            "ffa5e7f25efa29e03d7208597a35d678eee8b4d5"
+        ],
+        "fix_commit_hash": "4cecb774b1bb7029086bec536c2563c43906210a",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10019,
+        "bug_commit_hash": [
+            "d525d709af4227f15c247cb104aacd9b48fc8f89"
+        ],
+        "fix_commit_hash": "4e9faeb03f09b388db88e618d0bdc59b67819aca",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10020,
+        "bug_commit_hash": [
+            "2c3df83a36e959c0142c617d9eede9fefeb740ad"
+        ],
+        "fix_commit_hash": "2baaa49f3c7689e6219baac0d7663fc8557428bc",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10021,
+        "bug_commit_hash": [
+            "1921d09161903aa6e4749a53c31b2b3b30e183b4"
+        ],
+        "fix_commit_hash": "0ade431d9ad99d6325c753ee2ab2ba6c8c7e917f",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10022,
+        "bug_commit_hash": [
+            "566c2235d3e2c12d5ddd90ae700a9d725578ed9d"
+        ],
+        "fix_commit_hash": "4426361b3f6f780ad38a6497bb6d60631b548d5e",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10023,
+        "bug_commit_hash": [
+            "d96218d82c2e41b274805f873a16913a29d5ebf6"
+        ],
+        "fix_commit_hash": "fb1cdba06004fc29fb34db9b3e61ae829a5c5d3b",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10024,
+        "bug_commit_hash": [
+            "c0dc1a974afb2e7b370bd3e5f1356d06fccc8202"
+        ],
+        "fix_commit_hash": "2234c885b8a4bc06accdc7676a50416597ba1c03",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10025,
+        "bug_commit_hash": [
+            "4c16ed9fbbd79e0e0fd1ce858baab66c746ef3c5"
+        ],
+        "fix_commit_hash": "35cc5c71a4429ab18fb6fdb935a176c3ba6d1a3a",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10026,
+        "bug_commit_hash": [
+            "d8093a00d13819628c6c73873839b189b37af3ce"
+        ],
+        "fix_commit_hash": "74f90a2a30ee57d7f7396e5c053c498b94677156",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10027,
+        "bug_commit_hash": [
+            "09f5447b8c40dce9607618a4c772a9d4391c5ab6"
+        ],
+        "fix_commit_hash": "22bfa0d2db3264fdf6a69540bfd120b132aa4885",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10028,
+        "bug_commit_hash": [
+            "c0dc1a974afb2e7b370bd3e5f1356d06fccc8202"
+        ],
+        "fix_commit_hash": "2f8468b2fa0c6cd0d5b658405d1f278d9fc8ec6f",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10029,
+        "bug_commit_hash": [
+            "236d7c42802d5e426f383fdd2d594b1c29c569e8"
+        ],
+        "fix_commit_hash": "e4e041c14c645da0f294ed70d0a32ad7a508d1cf",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10030,
+        "bug_commit_hash": [
+            "a4e5f226618ad938626f71722b09f897112a5b70"
+        ],
+        "fix_commit_hash": "ed3f3eaea342fa666a1c3b888c13b00a1404b8ec",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10031,
+        "bug_commit_hash": [
+            "a61375e5e5b3e0892a7ba1955b09d50288d4c8e2"
+        ],
+        "fix_commit_hash": "d38e32d9312a3cecd246b23bef40f1b6afb62013",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10032,
+        "bug_commit_hash": [
+            "6ee8fcbac62ad9dd2a6b0e0498283246c1a77233"
+        ],
+        "fix_commit_hash": "301c2490511e2bf9fff4a6906abce7b1e7ba6be4",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10033,
+        "bug_commit_hash": [
+            "189eb11f1cc8851d196dedaf80e9aafae9d2832e"
+        ],
+        "fix_commit_hash": "6079a97d8dd1dc937d75a087e13c4587988a36bc",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10034,
+        "bug_commit_hash": [
+            "9026b11a31c43458421540fc793bd3dd84ec1f47"
+        ],
+        "fix_commit_hash": "0b12113fc92b7e1b168f406c1a4babd321a89a43",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10035,
+        "bug_commit_hash": [
+            "afc796b27a23fcd973bb0bd5cfcd223260415bc2"
+        ],
+        "fix_commit_hash": "df5ecc61303a90951be0fd657bd40c71223ecabf",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10036,
+        "bug_commit_hash": [
+            "454a33fc3ea4fab0afcbd23357292860214bba64"
+        ],
+        "fix_commit_hash": "652ed13fd03f7c2727eb16b1089bda56d95dab91",
+        "repo_name": "google/closure-compiler",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10037,
+        "bug_commit_hash": [
+            "b473d5f241294ca88064ee61bfe6e1b67761bb44"
+        ],
+        "fix_commit_hash": "4a28740ebe21b31b82d45d25d916986baa3f6438",
+        "repo_name": "apache/commons-codec",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10038,
+        "bug_commit_hash": [
+            "37c74d82b83989af6baf7e15f3a3ad64c498bb84"
+        ],
+        "fix_commit_hash": "3b161730bbd8991668485c0831ede41d21f7da02",
+        "repo_name": "apache/commons-codec",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10039,
+        "bug_commit_hash": [
+            "dcf6b046fcc4e26855607044969f558b5f6fef3a"
+        ],
+        "fix_commit_hash": "2e1075f5189e02bf52e7c5ce3aa9d81ecbf6b2a7",
+        "repo_name": "apache/commons-codec",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10040,
+        "bug_commit_hash": [
+            "4e95513b9f725ca1c226f8fd4b6478b3a8216570"
+        ],
+        "fix_commit_hash": "a6e3d00054bdb6d156403a7819cfeecffb1f02e2",
+        "repo_name": "apache/commons-compress",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10041,
+        "bug_commit_hash": [
+            "e0d33f3a48428e0c5b695d8a5ca9b4e17377b7c9"
+        ],
+        "fix_commit_hash": "3b2b2791992c6a8711570fefc372daa490292b2b",
+        "repo_name": "apache/commons-compress",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10042,
+        "bug_commit_hash": [
+            "bd590119dec8122e7bcfb1a4b7ed994b9ead4542"
+        ],
+        "fix_commit_hash": "7aa689ab5a2785ca4fdfcf7b022dbe00acb8b57f",
+        "repo_name": "apache/commons-compress",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10043,
+        "bug_commit_hash": [
+            "92b61c88d2dad3dc8a7d9332b258e11f1c47d4a5"
+        ],
+        "fix_commit_hash": "9aa03e9d3c7dad5ca08ad0059a454353538f0f10",
+        "repo_name": "apache/commons-compress",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10044,
+        "bug_commit_hash": [
+            "92b61c88d2dad3dc8a7d9332b258e11f1c47d4a5"
+        ],
+        "fix_commit_hash": "1349d768ff09056fe0019fa90d799ca2b96fc3c6",
+        "repo_name": "apache/commons-compress",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10045,
+        "bug_commit_hash": [
+            "a1c16087c7e99c69bd2e3b9fe91b38361f3eb07f"
+        ],
+        "fix_commit_hash": "3fffff7d572242a388253dbd8a6567c29cc7ed96",
+        "repo_name": "google/gson",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10046,
+        "bug_commit_hash": [
+            "f1a22ced8edd36ce0ecad7b8034032f854aeec47"
+        ],
+        "fix_commit_hash": "32769983a78f422bf295ad37f2112768cc9373d9",
+        "repo_name": "FasterXML/jackson-core",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10047,
+        "bug_commit_hash": [
+            "6be0474b5f5c0497b9f4570491868953fbeb62f8"
+        ],
+        "fix_commit_hash": "8e668a908bf14e34b444d032731aae82ffb64fbb",
+        "repo_name": "FasterXML/jackson-core",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10048,
+        "bug_commit_hash": [
+            "69ad5d51d56520f58a91cdbae7274115e3bd3593"
+        ],
+        "fix_commit_hash": "725b1d3020355cb7090f8139831bb994c53df8d9",
+        "repo_name": "FasterXML/jackson-core",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10049,
+        "bug_commit_hash": [
+            "69ad5d51d56520f58a91cdbae7274115e3bd3593"
+        ],
+        "fix_commit_hash": "ff79442bbe34f385dcccdc6e6dded44d6dd18323",
+        "repo_name": "FasterXML/jackson-core",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10050,
+        "bug_commit_hash": [
+            "6be0474b5f5c0497b9f4570491868953fbeb62f8"
+        ],
+        "fix_commit_hash": "04ae4ffb2b073850c8de4172d8013be651a43271",
+        "repo_name": "FasterXML/jackson-core",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10051,
+        "bug_commit_hash": [
+            "f9e0ab2485d8714fcb51d9b75f57f03f8c4b9f45"
+        ],
+        "fix_commit_hash": "ddeecfbb8dbeed30f414c594c7a1a639bbc7fcbf",
+        "repo_name": "jhy/jsoup",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10052,
+        "bug_commit_hash": [
+            "aeb26ae4d6932fb008397d9a5e6592d5f8228504"
+        ],
+        "fix_commit_hash": "2d5d48f7737c3908604c585e4d8aa691091d8663",
+        "repo_name": "jhy/jsoup",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10053,
+        "bug_commit_hash": [
+            "1b1a24f3466f729e81f4aa0a8848ec6ab92b30b2"
+        ],
+        "fix_commit_hash": "b7281f30f97535a3733608da186f88c6cb41c582",
+        "repo_name": "jhy/jsoup",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10054,
+        "bug_commit_hash": [
+            "df59af200812cad446f98c2f964e258a67644635"
+        ],
+        "fix_commit_hash": "55d6d2940e13c50845d6c7c009b6bfe251ffd12e",
+        "repo_name": "jhy/jsoup",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10055,
+        "bug_commit_hash": [
+            "d7ab00c690f69d39000a0b9b9007f51835e1f330"
+        ],
+        "fix_commit_hash": "d6d8e07abde7167ebf2fc3453f73766a4a405e99",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10056,
+        "bug_commit_hash": [
+            "c377b48f4e58b1f1cbe414106c3b1e3f84685ca3"
+        ],
+        "fix_commit_hash": "704939a4b9aec660f5ad4d3168940f650e9270d5",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10057,
+        "bug_commit_hash": [
+            "183145e5cf2f0a56c602b3b0278988dc9e735edb"
+        ],
+        "fix_commit_hash": "560f9bd5a93caa34f25a267d66ece9b26b668ed7",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10058,
+        "bug_commit_hash": [
+            "8cdd1d49d31800b62190b818b4c833045245725b"
+        ],
+        "fix_commit_hash": "6395af1ce4e79b6d3ce7592b09c4482b3d6f8e61",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10059,
+        "bug_commit_hash": [
+            "789237d4d2954c6cebf1f314c6c7d7f7c6d43a5a"
+        ],
+        "fix_commit_hash": "d4cca3c30f1e9a7c268a0e1b860972956c3fece4",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10060,
+        "bug_commit_hash": [
+            "183145e5cf2f0a56c602b3b0278988dc9e735edb"
+        ],
+        "fix_commit_hash": "26f4af547d516db7286c536436e74f10c798197e",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10061,
+        "bug_commit_hash": [
+            "d774d03b69846cdce927a0447deeee1bf97691bc"
+        ],
+        "fix_commit_hash": "500b186922a0a84a35bbe64ece7fcb2c40a60f11",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10062,
+        "bug_commit_hash": [
+            "183145e5cf2f0a56c602b3b0278988dc9e735edb"
+        ],
+        "fix_commit_hash": "665032e9a961e92da0da0a996225ca1a0f78d4a8",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10063,
+        "bug_commit_hash": [
+            "c950377221d6e550180446961d2d7cd1f3e828ed"
+        ],
+        "fix_commit_hash": "3f7a3b9b18372921108685535ba8ef78164b8013",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10064,
+        "bug_commit_hash": [
+            "9191100f3e4e8d0ef762a8dad3d781564e793ae2"
+        ],
+        "fix_commit_hash": "d536bb1ffd9ef915b3dfbd1ac8cd564efc916010",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10065,
+        "bug_commit_hash": [
+            "5b5495548cd844177031e3ab3e1140c5ba148b38"
+        ],
+        "fix_commit_hash": "f7800343552b955bd6dce0beb3786414260fe648",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10066,
+        "bug_commit_hash": [
+            "c409d958ef9aa306c6c3b21b184e758cbf80c31f"
+        ],
+        "fix_commit_hash": "bfbcb3e40d51eafb4bc88536d705945f4d80a1e6",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10067,
+        "bug_commit_hash": [
+            "eab5dfad8dd099fc42448ff8817ee1baefc252ea"
+        ],
+        "fix_commit_hash": "23769e572021eafbdbd97aad3c89e257eb16d128",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10068,
+        "bug_commit_hash": [
+            "97b82c3560cab3dc07f34de90e2fae150d1b03af"
+        ],
+        "fix_commit_hash": "f193992698681552c91c04f6af28121d0ea1c326",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10069,
+        "bug_commit_hash": [
+            "d4e8ef5dcb6e69a0ca1d891ab66ae1296eef4923"
+        ],
+        "fix_commit_hash": "e8350143302f2201f34e2f8b683000720f99bd54",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10070,
+        "bug_commit_hash": [
+            "a54cf7c95de7c81a424feb3e1248a479105f1a50"
+        ],
+        "fix_commit_hash": "27a32d97e076eb20b9f7b2bd5e8dd8fcdc8a215c",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10071,
+        "bug_commit_hash": [
+            "11c7bd4d49d5bbf05c4866accc3b8da565686d2e"
+        ],
+        "fix_commit_hash": "dc315f19e4204c318b28dfcee04b9013c081f38d",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10072,
+        "bug_commit_hash": [
+            "c320a094f27baeb03f50491c534ba2980004f8c8"
+        ],
+        "fix_commit_hash": "71699de1f93f5cccb9654d1155e2dc12d388f41c",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10073,
+        "bug_commit_hash": [
+            "8bed7b6ab8d8243c56bd4030f46b6545a496dad6"
+        ],
+        "fix_commit_hash": "c580d3b811ca405c0abe03f4c3b570994e1ac887",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10074,
+        "bug_commit_hash": [
+            "dc3225b05bb7e7b0eefb94c1db1856f8f1dc8ddd"
+        ],
+        "fix_commit_hash": "b25cddce14e8a31662c250900747e48e8ac87872",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10075,
+        "bug_commit_hash": [
+            "9ab3cdbfa27c2fb658bb5890be6fdb3286981559"
+        ],
+        "fix_commit_hash": "a54cf7c95de7c81a424feb3e1248a479105f1a50",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10076,
+        "bug_commit_hash": [
+            "c75b7902e867d7f18dfe1ecf8b4d219c4f2414f0"
+        ],
+        "fix_commit_hash": "ff7fbc248fdef5e316ef06dfe41dc6aea37511ac",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10077,
+        "bug_commit_hash": [
+            "bc419a731d3994ed5a84b621ddc03b029a0b97da"
+        ],
+        "fix_commit_hash": "84486485351aa7ef71fe3fb0c28ceaa6dba2e78c",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10078,
+        "bug_commit_hash": [
+            "9dfb0a1e605c6bece7f0f06d5a2f65a97c94c2ea"
+        ],
+        "fix_commit_hash": "d9163d393c28c728c777ecf64efb112044f1efb0",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10079,
+        "bug_commit_hash": [
+            "bc419a731d3994ed5a84b621ddc03b029a0b97da"
+        ],
+        "fix_commit_hash": "4714fb17d82c3e11b54e258a44b5f62ea793a6c6",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10080,
+        "bug_commit_hash": [
+            "df772b90dab5eb8e0449d4688590ec5d5840b110"
+        ],
+        "fix_commit_hash": "948ee2f890ed72651865788c8356df51b620a58d",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10081,
+        "bug_commit_hash": [
+            "11c7bd4d49d5bbf05c4866accc3b8da565686d2e"
+        ],
+        "fix_commit_hash": "0d301bfae1eee5dc822325fd517d462cbc5c4216",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10082,
+        "bug_commit_hash": [
+            "11c7bd4d49d5bbf05c4866accc3b8da565686d2e"
+        ],
+        "fix_commit_hash": "9661580d1ae73b1a315b590aabbf80268f544234",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10083,
+        "bug_commit_hash": [
+            "dab3136f55373835a5bd8b122f57e797db98611b"
+        ],
+        "fix_commit_hash": "a661acb9ca8cbf72d7ad15a3e66f245f8a9584c0",
+        "repo_name": "apache/commons-lang",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10084,
+        "bug_commit_hash": [
+            "c4df6719e6f96c17996abeed94ad42e5b1cd2fcd"
+        ],
+        "fix_commit_hash": "0455106cfd1bf4529e4663e7c51fd2903e85c59e",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10085,
+        "bug_commit_hash": [
+            "e3543156feb51dd85f488e739d6a4d6a6524b986"
+        ],
+        "fix_commit_hash": "a22dafb4b9feb87bb4238c7eafd50a4f5a7ad6de",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10086,
+        "bug_commit_hash": [
+            "0ce16adc880267b9df21efc7956369384a24617b"
+        ],
+        "fix_commit_hash": "ece8f51d2fb268c3c30ea21ba6e1b94205fced01",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10087,
+        "bug_commit_hash": [
+            "33d1cb90ae7d91f19b6b8c2b4496bce708201b14"
+        ],
+        "fix_commit_hash": "396e70ca32d93cba380f7e034746524966d56b20",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10088,
+        "bug_commit_hash": [
+            "8e9b3ad0bbfa6498ddb66398c12b25495a940a14"
+        ],
+        "fix_commit_hash": "199983144134598933bedac85c17abf629eecfe2",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10089,
+        "bug_commit_hash": [
+            "25256fb6771e89787b1d29baa573b5211bb9a067"
+        ],
+        "fix_commit_hash": "7e1d8fa9a81c6e8d0f2f0ac46789be1d81a03312",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10090,
+        "bug_commit_hash": [
+            "f5463f5a111d131fd8671d5e4c8633bf9aed20b2"
+        ],
+        "fix_commit_hash": "5a8faa4a984cf508c68e30302c2a5602ed2a4d80",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10091,
+        "bug_commit_hash": [
+            "40f3128340a2cd4f5f6b370f5a30c391902fb677"
+        ],
+        "fix_commit_hash": "b3d887d2127293c4873bfc773678cd80238ed9be",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10092,
+        "bug_commit_hash": [
+            "0084ba876bb66a8b8ce7b4256af66dadd159bece"
+        ],
+        "fix_commit_hash": "595de8577ba703380c69d7448d3e59691a2a4e1a",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10093,
+        "bug_commit_hash": [
+            "00a49981f78c5451e6d2cc153390658e79478082"
+        ],
+        "fix_commit_hash": "7375281582fdbf8eac99ab604dcf8a8dc6511691",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10094,
+        "bug_commit_hash": [
+            "954bb108382290cbf9bc73efb67dee7cd0ebfcfc"
+        ],
+        "fix_commit_hash": "9f5030f3f542b0288273c0dc5f81df600f311b6e",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10095,
+        "bug_commit_hash": [
+            "954bb108382290cbf9bc73efb67dee7cd0ebfcfc"
+        ],
+        "fix_commit_hash": "ea0ccf30700010eac152afa1692a52b1955f3ade",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10096,
+        "bug_commit_hash": [
+            "b44084bee948c35df3e8626d8bb45f222928d477"
+        ],
+        "fix_commit_hash": "a3f7ab27ec46d6d3e2d5595e6bdb4c456eddcd5b",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10097,
+        "bug_commit_hash": [
+            "9d217797f40fcbd1fd4dd6aa621102d14202d0a9"
+        ],
+        "fix_commit_hash": "6cb1c4b24d96cedb064ece5299e67401788af7dc",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10098,
+        "bug_commit_hash": [
+            "86e61136fb0b63d500da2bd53bc7d6254c1f5cec"
+        ],
+        "fix_commit_hash": "8bf99b0c90d9ca85b9bd9a765651abfcf9b17a22",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10099,
+        "bug_commit_hash": [
+            "10a3c75a077c813fe7931f59783440b35b705fd7"
+        ],
+        "fix_commit_hash": "fe20b6a63ebb2b28ce9c943f6b4d155d6a8fb976",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10100,
+        "bug_commit_hash": [
+            "a7e3aa46c1c0213430e7ac490ff7a6f971cef3c6"
+        ],
+        "fix_commit_hash": "9c6716299ad3308801e62ea3f1bf3038e0d896ae",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10101,
+        "bug_commit_hash": [
+            "8e7272b6a7a3a07e674af05bf79371f7b184a0c8"
+        ],
+        "fix_commit_hash": "c1467e90108271681a63785a905d378da94e37e4",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10102,
+        "bug_commit_hash": [
+            "09db704bf318b2b7ee7cd7241971f4598e077149"
+        ],
+        "fix_commit_hash": "8cdc098d57ae7cbc57c7e7b25de8fc3707a69ddf",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10103,
+        "bug_commit_hash": [
+            "3234f68364f318c4ba482806390858f6e9fa6307"
+        ],
+        "fix_commit_hash": "177ebc89e61637b0825ea9f0f5bd021a19cab538",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10104,
+        "bug_commit_hash": [
+            "3191af8e19a2634ad5ecea772642dfd71a7fff81"
+        ],
+        "fix_commit_hash": "46b4add5354d8051af2d7f0925e480ca64c4e433",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10105,
+        "bug_commit_hash": [
+            "8bb4fe96e6937a778f0323a10842159e384f2f46"
+        ],
+        "fix_commit_hash": "3191af8e19a2634ad5ecea772642dfd71a7fff81",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10106,
+        "bug_commit_hash": [
+            "d395d4d51fcff430b89fe5aa697c2292445f8703"
+        ],
+        "fix_commit_hash": "c227ba3b66edca73b91f222d0ad9aef288d960fd",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10107,
+        "bug_commit_hash": [
+            "0084ba876bb66a8b8ce7b4256af66dadd159bece"
+        ],
+        "fix_commit_hash": "97239faf1ee5ca0787c991b24d107cc9deef6759",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10108,
+        "bug_commit_hash": [
+            "77d6acd50bba91a93d8eba12bee0277839ec0dcc"
+        ],
+        "fix_commit_hash": "11554679eacbacc43519f55be12f1d92d7a11a92",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10109,
+        "bug_commit_hash": [
+            "d395d4d51fcff430b89fe5aa697c2292445f8703"
+        ],
+        "fix_commit_hash": "d1100ffd6d10334b96d5dcbc89457083d01c9bdd",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10110,
+        "bug_commit_hash": [
+            "266805ed6a7248c898cf3ce37f67663cc7a52f93"
+        ],
+        "fix_commit_hash": "0e8c5cbde3914ce402a019da727000958a37a7ad",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10111,
+        "bug_commit_hash": [
+            "bf4b1bb509ee3c3b06835c294fd6ac15844c4670"
+        ],
+        "fix_commit_hash": "522d99d8a9d92146f237b3397c3b9524603a2570",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10112,
+        "bug_commit_hash": [
+            "15539357de61045588d85592f0a789c08aa63c93"
+        ],
+        "fix_commit_hash": "20af3bfd5cdbcb25825a765a4366dbfeb49b071e",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10113,
+        "bug_commit_hash": [
+            "8e17027cda017d6fa6d144f95b86645fbc63474f"
+        ],
+        "fix_commit_hash": "95fc38e079f805a260fa8723e676f48c8936a382",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10114,
+        "bug_commit_hash": [
+            "78f30eeafd3c290733c53f0b4c076ec714e92090"
+        ],
+        "fix_commit_hash": "f671aff0f98feef41eaf52e09f4e470a95c13415",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10115,
+        "bug_commit_hash": [
+            "6db310b10c64c3bca7b0ba7336ed0ac404011296"
+        ],
+        "fix_commit_hash": "2f5f96faa9d0e73eb4aedd135bd444f98448944e",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10116,
+        "bug_commit_hash": [
+            "b182652a24ac3e34dc5417b32f29a04be7bc8cb8"
+        ],
+        "fix_commit_hash": "6db310b10c64c3bca7b0ba7336ed0ac404011296",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10117,
+        "bug_commit_hash": [
+            "93cdfb7934d945d745537b32bd7baf317c640583"
+        ],
+        "fix_commit_hash": "c27dc508eefe68e06ce7c6eda5334e4c2d73511f",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10118,
+        "bug_commit_hash": [
+            "33d1cb90ae7d91f19b6b8c2b4496bce708201b14"
+        ],
+        "fix_commit_hash": "f81fda5dcf47b056ec4e898b99418156f4d379dd",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10119,
+        "bug_commit_hash": [
+            "33d1cb90ae7d91f19b6b8c2b4496bce708201b14"
+        ],
+        "fix_commit_hash": "def7566bbf136a7a657040d58854496169ddf0c0",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10120,
+        "bug_commit_hash": [
+            "f811ef0f0eeaceab68dbd9b16e954f1cbc6473db"
+        ],
+        "fix_commit_hash": "f5e5746fbbcc072bf6ed1dcdcaaa8b667adf0a5a",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10121,
+        "bug_commit_hash": [
+            "33d1cb90ae7d91f19b6b8c2b4496bce708201b14"
+        ],
+        "fix_commit_hash": "690d09c1d6dad0a393a4edcd749ffb5dd239fd65",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10122,
+        "bug_commit_hash": [
+            "478c5fc93eecb9cc92372c871b947b15cb4e45ac"
+        ],
+        "fix_commit_hash": "8cf0d11799cf4198520fb390d1b49e97be1d49a9",
+        "repo_name": "apache/commons-math",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10123,
+        "bug_commit_hash": [
+            "48834d0b77f8e053ca4708a04274aa0828199711"
+        ],
+        "fix_commit_hash": "046cd6bab529c0eb3c9fc4f518b967c345c35481",
+        "repo_name": "mockito/mockito",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10124,
+        "bug_commit_hash": [
+            "d655382949bd88c998d40135216371dfbfdb1da7"
+        ],
+        "fix_commit_hash": "b8de142338caca593dfe0cbfb90361b339b7380d",
+        "repo_name": "JodaOrg/joda-time",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10125,
+        "bug_commit_hash": [
+            "49ad36ca622ba110c20249aa99085e9c48024b4e"
+        ],
+        "fix_commit_hash": "72baac38b7155de3d88acdea462777a67fa25d8a",
+        "repo_name": "JodaOrg/joda-time",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10126,
+        "bug_commit_hash": [
+            "cc66e90fbf45f55b73f349483bec2d79cf2c4a9f"
+        ],
+        "fix_commit_hash": "bbd2beb040183bf3fa10980563ecea2c0982a556",
+        "repo_name": "JodaOrg/joda-time",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10127,
+        "bug_commit_hash": [
+            "a0d831d710d31675c7ace8a8716617578052a52c"
+        ],
+        "fix_commit_hash": "5b236cc5bdd77a1349e807b712509908d03a2699",
+        "repo_name": "JodaOrg/joda-time",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10128,
+        "bug_commit_hash": [
+            "cecb18e0797fbc9a3b276cc2bd772b4af6cc2135"
+        ],
+        "fix_commit_hash": "d655382949bd88c998d40135216371dfbfdb1da7",
+        "repo_name": "JodaOrg/joda-time",
+        "language": [
+            "java"
+        ]
+    },
+    {
+        "id": 10129,
+        "bug_commit_hash": [
+            "a0d831d710d31675c7ace8a8716617578052a52c"
+        ],
+        "fix_commit_hash": "690db5f518c3eb83a14d62b8b4a83a2dbacad12f",
+        "repo_name": "JodaOrg/joda-time",
+        "language": [
+            "java"
+        ]
+    }
+]

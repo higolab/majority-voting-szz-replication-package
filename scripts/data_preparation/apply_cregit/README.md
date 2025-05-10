@@ -1,0 +1,50 @@
+# Apply cregit to repositories
+
+## 1. Build Docker image for cregit
+
+Before following steps, you need to read [README.md](../../../docker/README.md#cregit) and build the Docker image for cregit.
+
+## 2. Create cregit container
+
+Create container with docker compose.
+
+```bash
+docker compose up -d
+```
+
+Enter container.
+
+```bash
+docker exec -it cregit /bin/bash
+```
+
+## 3. Run scripts
+
+These commands are executed inside a Docker container.
+
+### 3-1. Defects4j
+
+```bash
+cd /workspaces/scripts/data-preparation/apply_cregit/defects4j
+bash run_cregit_1token.sh
+```
+
+```bash
+cd /workspaces/scripts/data-preparation/apply_cregit/defects4j
+bash run_cregit_2token.sh
+```
+
+```bash
+cd /workspaces/scripts/data-preparation/apply_cregit/defects4j
+bash run_cregit_3token.sh
+```
+
+```bash
+cd /workspaces/scripts/data-preparation/apply_cregit/defects4j
+bash run_cregit_4token.sh
+```
+
+```bash
+cd /workspaces/scripts/data-preparation/apply_cregit/defects4j
+bash run_cregit_5token.sh
+```

@@ -1,0 +1,13 @@
+services:
+  cregit-dev:
+    image: cregit:8-jdk-focal
+    build:
+      context: ../../../docker/cregit/
+      dockerfile: Dockerfile
+    container_name: cregit
+    volumes:
+      - type: bind
+        source: ../../..
+        target: /workspaces/
+    command: /bin/sh -c "while sleep 1000; do :; done"
+    working_dir: /workspaces/scripts/data_preparation/apply_cregit
