@@ -1,0 +1,10 @@
+services:
+  defects4j:
+    image: defects4j
+    container_name: defects4j
+    volumes:
+      - type: bind
+        source: ../../../..
+        target: /workspaces/
+    command: /bin/sh -c "bash clone_defects4j_and_repository.sh"
+    working_dir: /workspaces/scripts/data_preparation/data_collection/defects4j
