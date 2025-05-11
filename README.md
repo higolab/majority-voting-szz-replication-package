@@ -2,8 +2,6 @@
 
 Replication Package for "MV-SZZ: A Majority Voting-Based SZZ Method"
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10044843.svg)](https://doi.org/10.5281/zenodo.10044843)
-
 ## Overview of the replication package
 
 ```
