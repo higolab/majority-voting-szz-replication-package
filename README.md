@@ -8,13 +8,14 @@ Replication Package for "MV-SZZ: A Majority Voting-Based SZZ Method"
 
 ```
 .
-├── analyzed_projects.csv
-├── data
+├── dataset
 │  ├── databases
+│  ├── preparation
 │  ├── pyszz_v2
 │  └── repositories
 ├── docker
 │  ├── cregit
+│  ├── defects4j
 │  ├── ghq
 │  └── README.md
 ├── README.md
@@ -23,78 +24,62 @@ Replication Package for "MV-SZZ: A Majority Voting-Based SZZ Method"
 │  ├── models
 │  └── repositories
 ├── scripts
-│  ├── cregit
-│  ├── data_collection
+│  ├── data_preparation
+│  ├── discussion
+│  ├── preliminary_study
 │  ├── rq1
 │  ├── rq2
-│  ├── rq3
-│  └── statistics
+│  └── rq3
 └── tools
-   └── README.md
+   ├── cregit
+   └── pyszz_v2
 ```
 
-- `analyzed_projects.csv` contains in CSV format the list of all cloned projects at the time of this study.
-  - the repository name
-  - the hash of the last commit available at the time of the clone
-  - the date of the latest available commit
-- `data` directory is used to store datasets. It also provides access to the raw data collected in this study.
+- `dataset` directory is used to store datasets. It also provides access to the raw data collected in this study.
 - `docker` directory is where the Dockerfile used for replication packages is located.
 - `research_szz_cregit` directory is where the utility scripts created for some scripts in `scripts` directory.
 - `scripts` directory is where jupyter notebooks is in place to replicate our study.
-- `tools` directory contains the PySZZ archives that we have modified and used.
+- `tools` directory contains the PySZZ and cregit archives that we have modified and used.
 
 Please read the following instructions and the README.md located in each folder to use the replication package.
 
-## 0. Install Python packages
+## 1. Data Preparation
 
-This project uses poetry to manage Python packages.
-You can install the package as follows.
-
-```bash
-poetry install
-```
-
-If you are not using poetry, you can also install it using pip as follows.
-
-```bash
-pip install .
-```
-
-## 1. Data Collection
-
-See [README.md](scripts/data_collection/README.md).
+See [README.md](scripts/data_preparation/data_collection/README.md).
 
 ## 2. Apply cregit to original repositories
 
-See [README.md](scripts/cregit/README.md).
+See [README.md](scripts/data_preparation/apply_cregit/README.md).
 
-## 3. Dataset Statistics
+## 3. Apply szz
 
-See [README.md](scripts/statistics/README.md).
+See [README.md](scripts/data_preparation/apply_szz/README.md).
 
-## 4. Apply line-level SZZ, token-level SZZ
+## 4. Conduct majority voting
 
-See [README.md](tools/README.md)
+See [README.md](scripts/data_preparation/conduct_majority_voting/README.md).
 
 ## 5. Data Analysis
 
+### Preliminaly Study
+
+Execute [notebook](scripts/preliminary_study/plot_bar.ipynb)
+
 ### RQ1
 
-See [README.md](scripts/rq1/README.md)
+Execute [notebook](scripts/rq1/evaluate_n-token_representation.ipynb)
 
 ### RQ2
 
-See [README.md](scripts/rq2/README.md)
+Execute [notebook](scripts/rq2/evaluate_mv-szz.ipynb)
 
 ### RQ3
 
-See [README.md](scripts/rq3/README.md)
+Execute [notebook](scripts/rq3/evaluate_mv_szz_vs_existing_methods.ipynb)
 
-## How to cite
+### Discussion
 
-```
-TODO
-```
+Execute [notebook](scripts/discussion/evaluate_mv-szz_select_vs_exclude.ipynb)
 
 ## License
 
