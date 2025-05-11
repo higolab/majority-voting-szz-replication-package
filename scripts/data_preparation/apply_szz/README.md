@@ -8,6 +8,6 @@ Please read the [README.md](../../../tools/README.md) and apply the SZZ method t
 
 Open and Execute the notebook:
 
-- [Defects4j](./defects4j/create_json_for_szz.ipynb)
+- [Defects4j](./defects4j/convert_json_for_evaluation.ipynb)
 
-- [Developer-informed-oracle](./developer-informed-oracle/create_json_for_szz.ipynb)
+- [Developer-informed-oracle](./developer-informed-oracle/convert_json_for_evaluation.ipynb)

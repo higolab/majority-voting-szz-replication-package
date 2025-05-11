@@ -17,7 +17,7 @@ Apply to B-SZZ for original repository
 
 ```bash
 cd pyszz_v2-output-line-mapping
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_original.json $PWD/../../data/pyszz_v2/conf/bszz.yml $PWD/../../data/pyszz_v2/cloned/developer-informed-oracle/original/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/bszz.yml $PWD/../../dataset/pyszz_v2/cloned/developer-informed-oracle/original/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -25,11 +25,11 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/preliminary_study/developer-informed-oracle/dio_bic_conf_original.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/preliminary_study/developer-informed-oracle/dio_bic_conf_original.json
 
-cp $PWD/../../../data/pyszz_v2/json-output-raw/preliminary_study/developer-informed-oracle/dio_bic_conf_original.json $PWD/../../../data/pyszz_v2/json-output-raw/rq1/developer-informed-oracle/
-cp $PWD/../../../data/pyszz_v2/json-output-raw/preliminary_study/developer-informed-oracle/dio_bic_conf_original.json $PWD/../../../data/pyszz_v2/json-output-raw/rq2/developer-informed-oracle/dio_bic_conf_original.json
-cp $PWD/../../../data/pyszz_v2/json-output-raw/preliminary_study/developer-informed-oracle/dio_bic_conf_original.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/developer-informed-oracle/dio_bic_conf_original_b.json
+cp $PWD/../../../dataset/pyszz_v2/json-output-raw/preliminary_study/developer-informed-oracle/dio_bic_conf_original.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq1/developer-informed-oracle/dio_bic_conf_original.json
+cp $PWD/../../../dataset/pyszz_v2/json-output-raw/preliminary_study/developer-informed-oracle/dio_bic_conf_original.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq2/developer-informed-oracle/dio_bic_conf_original.json
+cp $PWD/../../../dataset/pyszz_v2/json-output-raw/preliminary_study/developer-informed-oracle/dio_bic_conf_original.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/developer-informed-oracle/dio_bic_conf_original_b.json
 ```
 
 ---
@@ -38,7 +38,7 @@ Apply to B-SZZ for 1token representation
 
 ```bash
 cd pyszz_v2-output-line-mapping
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_1token.json $PWD/../../data/pyszz_v2/conf/bszz.yml $PWD/../../data/pyszz_v2/cloned/developer-informed-oracle/1token/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_1token.json $PWD/../../dataset/pyszz_v2/conf/bszz.yml $PWD/../../dataset/pyszz_v2/cloned/developer-informed-oracle/1token/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -46,7 +46,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/output/developer-informed-oracle/dio_bic_conf_1token.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/output/developer-informed-oracle/dio_bic_conf_1token.json
 ```
 
 ---
@@ -55,7 +55,7 @@ Apply to B-SZZ for 2token representation
 
 ```bash
 cd pyszz_v2-output-line-mapping
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_2token.json $PWD/../../data/pyszz_v2/conf/bszz.yml $PWD/../../data/pyszz_v2/cloned/developer-informed-oracle/2token/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_2token.json $PWD/../../dataset/pyszz_v2/conf/bszz.yml $PWD/../../dataset/pyszz_v2/cloned/developer-informed-oracle/2token/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -63,7 +63,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/output/developer-informed-oracle/dio_bic_conf_2token.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/output/developer-informed-oracle/dio_bic_conf_2token.json
 ```
 
 ---
@@ -72,7 +72,7 @@ Apply to B-SZZ for 3token representation
 
 ```bash
 cd pyszz_v2-output-line-mapping
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_3token.json $PWD/../../data/pyszz_v2/conf/bszz.yml $PWD/../../data/pyszz_v2/cloned/developer-informed-oracle/3token/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_3token.json $PWD/../../dataset/pyszz_v2/conf/bszz.yml $PWD/../../dataset/pyszz_v2/cloned/developer-informed-oracle/3token/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -80,7 +80,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/output/developer-informed-oracle/dio_bic_conf_3token.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/output/developer-informed-oracle/dio_bic_conf_3token.json
 ```
 
 ---
@@ -89,7 +89,7 @@ Apply to B-SZZ for 4token representation
 
 ```bash
 cd pyszz_v2-output-line-mapping
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_4token.json $PWD/../../data/pyszz_v2/conf/bszz.yml $PWD/../../data/pyszz_v2/cloned/developer-informed-oracle/4token/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_4token.json $PWD/../../dataset/pyszz_v2/conf/bszz.yml $PWD/../../dataset/pyszz_v2/cloned/developer-informed-oracle/4token/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -97,7 +97,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/output/developer-informed-oracle/dio_bic_conf_4token.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/output/developer-informed-oracle/dio_bic_conf_4token.json
 ```
 
 ---
@@ -106,7 +106,7 @@ Apply to B-SZZ for 5token representation
 
 ```bash
 cd pyszz_v2-output-line-mapping
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_5token.json $PWD/../../data/pyszz_v2/conf/bszz.yml $PWD/../../data/pyszz_v2/cloned/developer-informed-oracle/5token/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_5token.json $PWD/../../dataset/pyszz_v2/conf/bszz.yml $PWD/../../dataset/pyszz_v2/cloned/developer-informed-oracle/5token/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -114,7 +114,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/output/developer-informed-oracle/dio_bic_conf_5token.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/output/developer-informed-oracle/dio_bic_conf_5token.json
 ```
 
 ### 2-2. Defects4j
@@ -123,7 +123,7 @@ Apply to B-SZZ for original repository
 
 ```bash
 cd pyszz_v2-output-line-mapping
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_original.json $PWD/../../data/pyszz_v2/conf/bszz.yml $PWD/../../data/pyszz_v2/cloned/defects4j/original/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/bszz.yml $PWD/../../dataset/pyszz_v2/cloned/defects4j/original/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -131,11 +131,11 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/preliminary_study/defects4j/d4j_bic_conf_original.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/preliminary_study/defects4j/d4j_bic_conf_original.json
 
-cp $PWD/../../../data/pyszz_v2/json-output-raw/preliminary_study/defects4j/d4j_bic_conf_original.json $PWD/../../../data/pyszz_v2/json-output-raw/rq1/defects4j/d4j_bic_conf_original.json
-cp $PWD/../../../data/pyszz_v2/json-output-raw/preliminary_study/defects4j/d4j_bic_conf_original.json $PWD/../../../data/pyszz_v2/json-output-raw/rq2/defects4j/d4j_bic_conf_original.json
-cp $PWD/../../../data/pyszz_v2/json-output-raw/preliminary_study/defects4j/d4j_bic_conf_original.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/defects4j/d4j_bic_conf_original.json
+cp $PWD/../../../dataset/pyszz_v2/json-output-raw/preliminary_study/defects4j/d4j_bic_conf_original.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq1/defects4j/d4j_bic_conf_original.json
+cp $PWD/../../../dataset/pyszz_v2/json-output-raw/preliminary_study/defects4j/d4j_bic_conf_original.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq2/defects4j/d4j_bic_conf_original.json
+cp $PWD/../../../dataset/pyszz_v2/json-output-raw/preliminary_study/defects4j/d4j_bic_conf_original.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/defects4j/d4j_bic_conf_original_b.json
 ```
 
 ---
@@ -144,7 +144,7 @@ Apply to B-SZZ for 1token representation
 
 ```bash
 cd pyszz_v2-output-line-mapping
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_1token.json $PWD/../../data/pyszz_v2/conf/bszz.yml $PWD/../../data/pyszz_v2/cloned/defects4j/1token/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_1token.json $PWD/../../dataset/pyszz_v2/conf/bszz.yml $PWD/../../dataset/pyszz_v2/cloned/defects4j/1token/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -152,7 +152,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/output/defects4j/d4j_bic_conf_1token.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/output/defects4j/d4j_bic_conf_1token.json
 ```
 
 ---
@@ -161,7 +161,7 @@ Apply to B-SZZ for 2token representation
 
 ```bash
 cd pyszz_v2-output-line-mapping
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_2token.json $PWD/../../data/pyszz_v2/conf/bszz.yml $PWD/../../data/pyszz_v2/cloned/defects4j/2token/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_2token.json $PWD/../../dataset/pyszz_v2/conf/bszz.yml $PWD/../../dataset/pyszz_v2/cloned/defects4j/2token/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -169,7 +169,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/output/defects4j/d4j_bic_conf_2token.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/output/defects4j/d4j_bic_conf_2token.json
 ```
 
 ---
@@ -178,7 +178,7 @@ Apply to B-SZZ for 3token representation
 
 ```bash
 cd pyszz_v2-output-line-mapping
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_3token.json $PWD/../../data/pyszz_v2/conf/bszz.yml $PWD/../../data/pyszz_v2/cloned/defects4j/3token/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_3token.json $PWD/../../dataset/pyszz_v2/conf/bszz.yml $PWD/../../dataset/pyszz_v2/cloned/defects4j/3token/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -186,7 +186,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/output/defects4j/d4j_bic_conf_3token.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/output/defects4j/d4j_bic_conf_3token.json
 ```
 
 ---
@@ -195,7 +195,7 @@ Apply to B-SZZ for 4token representation
 
 ```bash
 cd pyszz_v2-output-line-mapping
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_4token.json $PWD/../../data/pyszz_v2/conf/bszz.yml $PWD/../../data/pyszz_v2/cloned/defects4j/4token/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_4token.json $PWD/../../dataset/pyszz_v2/conf/bszz.yml $PWD/../../dataset/pyszz_v2/cloned/defects4j/4token/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -203,7 +203,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/output/defects4j/d4j_bic_conf_4token.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/output/defects4j/d4j_bic_conf_4token.json
 ```
 
 ---
@@ -212,7 +212,7 @@ Apply to B-SZZ for 5token representation
 
 ```bash
 cd pyszz_v2-output-line-mapping
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_5token.json $PWD/../../data/pyszz_v2/conf/bszz.yml $PWD/../../data/pyszz_v2/cloned/defects4j/5token/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_5token.json $PWD/../../dataset/pyszz_v2/conf/bszz.yml $PWD/../../dataset/pyszz_v2/cloned/defects4j/5token/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -220,7 +220,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/output/defects4j/d4j_bic_conf_5token.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/output/defects4j/d4j_bic_conf_5token.json
 ```
 
 ## 3. Apply to AG-SZZ, MA-SZZ, L-SZZ, R-SZZ for original repository
@@ -230,7 +230,7 @@ mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/output/def
 Apply AG-SZZ for original repository
 
 ```bash
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_original.json $PWD/../../data/pyszz_v2/conf/agszz.yml $PWD/../../data/pyszz_v2/cloned/developer-informed-oracle/original/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/agszz.yml $PWD/../../dataset/pyszz_v2/cloned/developer-informed-oracle/original/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -238,7 +238,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/developer-informed-oracle/dio_bic_conf_original_ag.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/developer-informed-oracle/dio_bic_conf_original_ag.json
 ```
 
 ---
@@ -246,7 +246,7 @@ mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/develo
 Apply MA-SZZ for original repository
 
 ```bash
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_original.json $PWD/../../data/pyszz_v2/conf/maszz.yml $PWD/../../data/pyszz_v2/cloned/developer-informed-oracle/original/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/maszz.yml $PWD/../../dataset/pyszz_v2/cloned/developer-informed-oracle/original/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -254,7 +254,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/developer-informed-oracle/dio_bic_conf_original_ma.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/developer-informed-oracle/dio_bic_conf_original_ma.json
 ```
 
 ---
@@ -262,7 +262,7 @@ mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/develo
 Apply L-SZZ for original repository
 
 ```bash
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_original.json $PWD/../../data/pyszz_v2/conf/lszz.yml $PWD/../../data/pyszz_v2/cloned/developer-informed-oracle/original/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/lszz.yml $PWD/../../dataset/pyszz_v2/cloned/developer-informed-oracle/original/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -270,7 +270,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/developer-informed-oracle/dio_bic_conf_original_l.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/developer-informed-oracle/dio_bic_conf_original_l.json
 ```
 
 ---
@@ -278,7 +278,7 @@ mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/develo
 Apply R-SZZ for original repository
 
 ```bash
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_original.json $PWD/../../data/pyszz_v2/conf/rszz.yml $PWD/../../data/pyszz_v2/cloned/developer-informed-oracle/original/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/rszz.yml $PWD/../../dataset/pyszz_v2/cloned/developer-informed-oracle/original/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -286,7 +286,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/developer-informed-oracle/dio_bic_conf_original_r.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/developer-informed-oracle/dio_bic_conf_original_r.json
 ```
 
 ### 3-2. Defects4j
@@ -294,7 +294,7 @@ mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/develo
 Apply AG-SZZ for original repository
 
 ```bash
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_original.json $PWD/../../data/pyszz_v2/conf/agszz.yml $PWD/../../data/pyszz_v2/cloned/defects4j/original/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/agszz.yml $PWD/../../dataset/pyszz_v2/cloned/defects4j/original/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -302,7 +302,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/defects4j/d4j_bic_conf_original_ag.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/defects4j/d4j_bic_conf_original_ag.json
 ```
 
 ---
@@ -310,7 +310,7 @@ mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/defect
 Apply MA-SZZ for original repository
 
 ```bash
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_original.json $PWD/../../data/pyszz_v2/conf/maszz.yml $PWD/../../data/pyszz_v2/cloned/defects4j/original/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/maszz.yml $PWD/../../dataset/pyszz_v2/cloned/defects4j/original/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -318,7 +318,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/defects4j/d4j_bic_conf_original_ma.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/defects4j/d4j_bic_conf_original_ma.json
 ```
 
 ---
@@ -326,7 +326,7 @@ mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/defect
 Apply L-SZZ for original repository
 
 ```bash
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_original.json $PWD/../../data/pyszz_v2/conf/lszz.yml $PWD/../../data/pyszz_v2/cloned/defects4j/original/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/lszz.yml $PWD/../../dataset/pyszz_v2/cloned/defects4j/original/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -334,7 +334,7 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/defects4j/d4j_bic_conf_original_l.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/defects4j/d4j_bic_conf_original_l.json
 ```
 
 ---
@@ -342,7 +342,7 @@ mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/defect
 Apply R-SZZ for original repository
 
 ```bash
-bash run_docker.sh $PWD/../../data/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_original.json $PWD/../../data/pyszz_v2/conf/rszz.yml $PWD/../../data/pyszz_v2/cloned/defects4j/original/
+bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/rszz.yml $PWD/../../dataset/pyszz_v2/cloned/defects4j/original/
 ```
 
 The results are generated in `pyszz_v2/out/bic_conf_*.json`.
@@ -350,5 +350,5 @@ Change the name for clarity and move the file for evaluation.
 
 ```bash
 cd out
-mv bic_conf_<NUMBER>.json $PWD/../../../data/pyszz_v2/json-output-raw/rq3/defects4j/d4j_bic_conf_original_r.json
+mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/defects4j/d4j_bic_conf_original_r.json
 ```
