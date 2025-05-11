@@ -1,0 +1,12 @@
+szz_name: ma
+
+file_ext_to_parse:
+  - java
+
+issue_date_filter: false
+
+max_change_size: 100000
+
+detect_move_within_file: true
+
+detect_move_from_other_files: 1
