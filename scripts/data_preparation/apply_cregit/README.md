@@ -1,5 +1,15 @@
 # Apply cregit to repositories
 
+## 0. Clone tool
+
+We have modified cregit to convert n-token representation.
+You can clone the following command:
+
+```bash
+cd ../../../tools
+unzip cregit.zip
+```
+
 ## 1. Build Docker image for cregit
 
 Before following steps, you need to read [README.md](../../../docker/README.md#cregit) and build the Docker image for cregit.
