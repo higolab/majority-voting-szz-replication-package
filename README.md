@@ -81,4 +81,8 @@ Execute [notebook](scripts/discussion/evaluate_mv-szz_select_vs_exclude.ipynb)
 
 ## License
 
-This software is licensed under the MIT License.
+This Replication Package, including the modified cregit tool and associated scripts, is licensed under the GNU General Public License Version 3 (GPLv3). A copy of the GPLv3 license can be found in the file named `LICENSE` in the root directory of this package.
+
+The original cregit tool, on which our modified version is based, is also licensed under the GPLv3. For details on the original cregit, please refer to [here](https://github.com/cregit/cregit).
+
+Copyright (c) 2025 Software Engineering Laboratory, Osaka University
