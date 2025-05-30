@@ -9,6 +9,10 @@ You can clone the following command:
 unzip pyszz_v2-output-line-mapping.zip
 ```
 
+```bash
+unzip pyszz_v2-output-line-mapping-for-variants.zip
+```
+
 ## 2. Apply to B-SZZ for original repository and N-token represenation
 
 ### 2.1 Developer-informed oracle
@@ -230,6 +234,7 @@ mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/output/
 Apply AG-SZZ for original repository
 
 ```bash
+cd pyszz_v2-output-line-mapping-for-variants
 bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/agszz.yml $PWD/../../dataset/pyszz_v2/cloned/developer-informed-oracle/original/
 ```
 
@@ -246,6 +251,7 @@ mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/dev
 Apply MA-SZZ for original repository
 
 ```bash
+cd pyszz_v2-output-line-mapping-for-variants
 bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/maszz.yml $PWD/../../dataset/pyszz_v2/cloned/developer-informed-oracle/original/
 ```
 
@@ -262,6 +268,7 @@ mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/dev
 Apply L-SZZ for original repository
 
 ```bash
+cd pyszz_v2-output-line-mapping-for-variants
 bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/lszz.yml $PWD/../../dataset/pyszz_v2/cloned/developer-informed-oracle/original/
 ```
 
@@ -278,6 +285,7 @@ mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/dev
 Apply R-SZZ for original repository
 
 ```bash
+cd pyszz_v2-output-line-mapping-for-variants
 bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/developer-informed-oracle/dio_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/rszz.yml $PWD/../../dataset/pyszz_v2/cloned/developer-informed-oracle/original/
 ```
 
@@ -294,6 +302,7 @@ mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/dev
 Apply AG-SZZ for original repository
 
 ```bash
+cd pyszz_v2-output-line-mapping-for-variants
 bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/agszz.yml $PWD/../../dataset/pyszz_v2/cloned/defects4j/original/
 ```
 
@@ -310,6 +319,7 @@ mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/def
 Apply MA-SZZ for original repository
 
 ```bash
+cd pyszz_v2-output-line-mapping-for-variants
 bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/maszz.yml $PWD/../../dataset/pyszz_v2/cloned/defects4j/original/
 ```
 
@@ -326,6 +336,7 @@ mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/def
 Apply L-SZZ for original repository
 
 ```bash
+cd pyszz_v2-output-line-mapping-for-variants
 bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/lszz.yml $PWD/../../dataset/pyszz_v2/cloned/defects4j/original/
 ```
 
@@ -342,6 +353,7 @@ mv bic_conf_<NUMBER>.json $PWD/../../../dataset/pyszz_v2/json-output-raw/rq3/def
 Apply R-SZZ for original repository
 
 ```bash
+cd pyszz_v2-output-line-mapping-for-variants
 bash run_docker.sh $PWD/../../dataset/pyszz_v2/json-input-raw/defects4j/d4j_bugfix_commits_original.json $PWD/../../dataset/pyszz_v2/conf/rszz.yml $PWD/../../dataset/pyszz_v2/cloned/defects4j/original/
 ```
 
